@@ -2,5 +2,5 @@ project_id: oomlout_decorative_wall_mount_roomba
 project_name: Oomlout Decorative Wall Mount Roomba
 project_repo: https://github.com/oomlout/oomlout_decorative_wall_mount_roomba
 production_format:
-  oolc_1:
+  oolc_1_test_1:
     file_location: source_files/oolc_1.cdr
