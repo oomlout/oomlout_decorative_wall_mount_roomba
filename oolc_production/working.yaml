@@ -4,3 +4,5 @@ project_repo: https://github.com/oomlout/oomlout_decorative_wall_mount_roomba
 production_format:
   oolc_1_test_1:
     file_location: source_files/oolc_1.cdr
+  oolc_2_roomba_spacing_guide:
+    file_location: source_files/oolc_2.cdr
